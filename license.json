@@ -1,6 +1,6 @@
 {
-  "status": "LOCKED",
-  "killswitch": true,
+  "status": "actif",
+  "killswitch": false,
   "owner": "RyZon78",
   "server": "Ventura Fa",
   "reason": "Serveur actif et autorise par RyZon78"
