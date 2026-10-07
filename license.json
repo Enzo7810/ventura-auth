@@ -1,6 +1,6 @@
 {
   "status": "ACTIVE",
-  "killswitch": false,
+  "killswitch": true,
   "owner": "RyZon78",
   "server": "Ventura Fa",
   "reason": "Serveur actif et autorise par RyZon78"
